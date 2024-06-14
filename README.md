@@ -36,10 +36,10 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    git clone https://github.com/yourusername/open-source-club-website.git
 2. **Navigate to the project directory**
-   '''bash
+   ```bash
    cd open-source-club-website
 3. **Open the index.html file in your web browser to view the website:**
-   '''bash
+   ```bash
    open index.html
 
 ## Contributing
